@@ -1,7 +1,7 @@
 ### Hi, Holla, and Namaste 👋🙏
 
 
-- 🔭 I’m currently working on on OpenTabs Chrome Extension
+- 🔭 I’m currently working on OpenTabs Chrome Extension
 - 🌱 I’m currently learning the best and latest UI/UX skills
 - 👯 I’m looking to collaborate on exciting projects related to UI development
 - 🤔 I’m looking to exchange ideas with taleneted and creative UI/UX people
