@@ -9,3 +9,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavikbhoir/) | [Portfolio](https://bhavikbhoir.pb.online/) | [Medium](https://medium.com/@bhvkbhoir95)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: There's no bug that cannot be resolved 
+<img src="https://github-readme-stats.vercel.app/api?username=bhavikbhoir&&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=000000&bg_color=ffffff">
