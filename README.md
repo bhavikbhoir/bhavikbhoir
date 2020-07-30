@@ -1,5 +1,5 @@
-<div style="background="https://cdn.theathletic.com/app/uploads/2020/07/27095518/aubameyang-arsenal-2020-e1595868158300-1024x512.jpg">
-### Hi, Holla, and Namaste 👋🙏
+<div style="background-image="https://cdn.theathletic.com/app/uploads/2020/07/27095518/aubameyang-arsenal-2020-e1595868158300-1024x512.jpg">
+Hi, Holla, and Namaste 👋🙏
 
 
 - 🔭 I’m currently working on OpenTabs Chrome Extension
