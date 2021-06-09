@@ -11,6 +11,7 @@
 - ⚡ Fun fact: There's no bug that cannot be resolved 
 
 ### ✨ GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=bhavikbhoir&&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=000000&bg_color=ffffff">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikbhoir&theme=light&layout=compact">
-
+<div class="d-inline>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavikbhoir&&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=000000&bg_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikbhoir&theme=light&layout=compact">
+</div>
