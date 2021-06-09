@@ -15,3 +15,6 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bhavikbhoir&&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=000000&bg_color=ffffff">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikbhoir&theme=light&layout=compact">
 </span>
+
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=bhavikbhoirf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
