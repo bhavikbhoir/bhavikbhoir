@@ -11,7 +11,7 @@
 - ⚡ Fun fact: There's no bug that cannot be resolved 
 
 ### ✨ GitHub Stats
-<div class="row d-flex">
+<div class="row" style="display: flex;">
   <div class="column">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bhavikbhoir&&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=000000&bg_color=ffffff">
   </div>
