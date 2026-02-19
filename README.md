@@ -1,21 +1,27 @@
 ## Hi, Holla, and Namaste 👋🙏
 
-### 👨🏻‍💻 &nbsp;Little About Me
-- 🔭 I’m currently working at Idexcel
-- 🌱 I’m currently learning the best and latest UI/UX skills
-- 👯 I’m looking to collaborate on exciting projects related to UI development
-- 🤔 I’m looking to exchange ideas with talented and creative UI/UX people
-- 💬 Ask me about Web/UI development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavikbhoir/) | [Medium](https://medium.com/@bhvkbhoir95)
+### 👨🏻‍💻 &nbsp;About Me
+- 🔭 Full Stack Developer at Idexcel
+- 💻 Experienced in React.js, Node.js, AWS, and Generative AI
+- 🎨 Specializing in modern UI/UX development with CSS and frontend frameworks
+- 🚀 Building scalable full-stack applications with cloud technologies
+- 🤖 Exploring AI-powered solutions and integrations
+- 👯 Looking to collaborate on innovative full-stack and AI projects
+- 💬 Ask me about: React, Node.js, AWS, Gen AI, UI/UX, Frontend/Backend development
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/bhavikbhoir/) | [Medium](https://medium.com/@bhvkbhoir95)
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: There's no bug that cannot be resolved 
+
+### 🛠️ Tech Stack
+**Frontend:** React.js, JavaScript, HTML5, CSS3, Bootstrap 
+**Backend:** Node.js, Express.js, REST APIs  
+**Cloud:** AWS (Lambda, S3, EC2, DynamoDB, CloudFormation)  
+**AI/ML:** Generative AI, LLM Integration, AI-powered applications  
+**Tools:** Git, Firebase, Docker, CI/CD  
 
 ### ✨ GitHub Stats
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=bhavikbhoirf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=bhavikbhoir&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <span href="https://github.com/bhavikbhoir/">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bhavikbhoir&&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=000000&bg_color=ffffff">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bhavikbhoir&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=000000&bg_color=ffffff">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikbhoir&theme=light&layout=compact">
 </span>
-
-
