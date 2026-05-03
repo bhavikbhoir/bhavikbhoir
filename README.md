@@ -20,4 +20,4 @@
 ### ✨ GitHub Stats
 ![Visitor Count](https://komarev.com/ghpvc/?username=bhavikbhoir&color=7B1E7A&style=flat-square)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bhavikbhoir&theme=default&hide_border=true&card_width=450&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com/?user=bhavikbhoir)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bhavikbhoir&theme=default&hide_border=true&card_width=450&date_format=j%20M%5B%20Y%5D&v=2)](https://streak-stats.demolab.com/?user=bhavikbhoir)
